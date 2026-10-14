@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Python official tutorial",
+    "category": "Software development",
+    "url": "https://docs.python.org/3/tutorial/",
+    "description": "Official Python language tutorial and reference."
+  },
+  {
+    "title": "GitHub Skills",
+    "category": "Git and GitHub",
+    "url": "https://skills.github.com/",
+    "description": "Interactive learning exercises for GitHub workflows."
+  },
+  {
+    "title": "Microsoft Learn",
+    "category": "IT, cloud, and data",
+    "url": "https://learn.microsoft.com/training/",
+    "description": "Learning paths and documentation across Microsoft technologies."
+  },
+  {
+    "title": "AWS Skill Builder",
+    "category": "Cloud computing",
+    "url": "https://skillbuilder.aws/",
+    "description": "AWS learning resources; check each course for current access conditions."
+  },
+  {
+    "title": "Cisco Networking Academy",
+    "category": "Networking and cybersecurity",
+    "url": "https://www.netacad.com/",
+    "description": "Networking and cybersecurity learning resources; availability varies by course."
+  },
+  {
+    "title": "freeCodeCamp",
+    "category": "Web development and data",
+    "url": "https://www.freecodecamp.org/learn/",
+    "description": "Free coding curricula and practical exercises."
+  },
+  {
+    "title": "Google Career Certificates",
+    "category": "Career and technical learning",
+    "url": "https://grow.google/certificates/",
+    "description": "Career training information; pricing and financial-aid options vary by programme."
+  },
+  {
+    "title": "Coursera",
+    "category": "Career and technical learning",
+    "url": "https://www.coursera.org/",
+    "description": "Courses from universities and organisations; check course access and pricing."
+  }
+]
